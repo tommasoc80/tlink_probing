@@ -1,6 +1,6 @@
 # Probing Temporal Relations Between Pairs of Events.
 
-This is the public repository for the paper [How About Time? Probing a Multilingual Language Model for Temporal Relations](https://github.com/irenedini/tlink_probing/blob/main/COLING_tlink_probing.pdf) (COLING 2022) - *Mentioned as Outstanding Paper*
+This is the public repository for the paper [How About Time? Probing a Multilingual Language Model for Temporal Relations](https://aclanthology.org/2022.coling-1.283.pdf) COLING 2022 - *Outstanding Paper*
 
 The probing experiments have been run using a multilingual language model (XLM-RoBERTa). All experiments focused on temporal relation classifiction between pairs of events (either in the same sentence or across different sentence) for different languages: English, Italian, Spanish, and French. 
 
